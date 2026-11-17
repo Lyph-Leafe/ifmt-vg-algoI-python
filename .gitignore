@@ -1,0 +1,10 @@
+# Soluções dos desafios: ficam só no PC do professor
+**/desafio/solucao/
+
+
+# Gerados ao rodar os programas
+__pycache__/
+*.pyc
+dados/
+perfil.json
+.vscode/

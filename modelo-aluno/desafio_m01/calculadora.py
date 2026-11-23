@@ -13,7 +13,7 @@ while escolha != 0:
   print("Digite 0 para sair")
   escolha = int(input("Digite a sua escolha: "))
   
-  while ( 7> escolha >= 0 ):
+  while ( 7< escolha >= 0 ):
     print("escolha invalida")
     escolha = int(input("Digite a sua escolha: "))
 
